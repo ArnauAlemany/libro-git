@@ -1,2 +1,7 @@
+Autor1:
 Usuario: ArnauAlemany 
+Email: arnau.alemany.espert@gmail.com
+
+Autor2:
+Usuario: ArnauAlemany
 Email: arnau.alemany.espert@gmail.com
